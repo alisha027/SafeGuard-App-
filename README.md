@@ -1,4 +1,5 @@
 🚨 Safeguard App
+
 Safeguard is a feature-rich personal safety Android application developed using Kotlin, designed to help users quickly alert their trusted contacts in emergency situations. The app allows seamless management of trusted contacts and location permission handling, all wrapped in a clean, bold UI with a red and white safety theme.
 
 ✨ Features
